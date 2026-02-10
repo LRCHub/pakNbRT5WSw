@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "トライアングル",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-02-10T05:27:22.842662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビザール・ラヴ・トライアングル",
+      "artist": "ニュー・オーダー",
+      "has_synced": true,
+      "path": "select/01_ビザール・ラヴ・トライアングル_ニュー・オーダー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トライアングル",
+      "artist": "イルミネーションスターズ",
+      "has_synced": true,
+      "path": "select/02_トライアングル_イルミネーションスターズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トライアングル",
+      "artist": "大石昌良",
+      "has_synced": false,
+      "path": "select/03_トライアングル_大石昌良.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brand New Dreamer(らぁら×トライアングル)",
+      "artist": "らぁらwithトライアングル(cv:茜屋日海夏＆田中美海)",
+      "has_synced": true,
+      "path": "select/04_Brand_New_Dreamer(らぁら×トライアングル)_らぁらwithトライアングル(cv_茜屋日海夏&田中美海).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トライアングル",
+      "artist": "イルミネーションスターズ ・ 櫻木真乃",
+      "has_synced": true,
+      "path": "select/05_トライアングル_イルミネーションスターズ_・_櫻木真乃.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トライアングル",
+      "artist": "イルミネーションスターズ (関根瞳, 近藤玲奈, 峯田茉優)",
+      "has_synced": true,
+      "path": "select/06_トライアングル_イルミネーションスターズ_(関根瞳,_近藤玲奈,_峯田茉優).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トライアングル・ドリーマー",
+      "artist": "虹のコンキスタドール",
+      "has_synced": true,
+      "path": "select/07_トライアングル・ドリーマー_虹のコンキスタドール.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トライアングル",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_トライアングル_FES☆TIVE.txt"
+    }
+  ]
+}
